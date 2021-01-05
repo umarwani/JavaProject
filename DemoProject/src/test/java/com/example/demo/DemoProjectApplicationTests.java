@@ -15,6 +15,7 @@ class DemoProjectApplicationTests
 	@Test
 	void testMessage()
 	{
+		// makes a change
 		message.printMessage();
 		
 	}
